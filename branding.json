@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F9FAFB",
+  "secondaryColor": "#FFFFFF",
+  "backgroundColor": "#F9FAFB",
+  "textColor": "#1F2937",
+  "accentColor": "#2563EB",
+  "fontHeading": "Inter",
+  "fontBody": "Inter",
+  "borderRadius": "0.25rem",
+  "logoText": "Notas Personales",
+  "logoImageUrl": null,
+  "tone": "minimal"
+}
